@@ -7,6 +7,13 @@ It focuses on designing a relational database and writing analytical queries to 
 The project demonstrates practical SQL skills commonly required for **Data Analyst roles**.
 
 ---
+##PROBLEM: 
+Organizations often struggle to manage employee data efficiently due to fragmented systems and manual processes. This leads to errors in payroll, difficulty in tracking employee performance, leave management issues, and lack of actionable insights for decision-making.
+
+
+##SOLUTION: 
+There is a need for a centralized system that can store, manage, and analyze employee-related data such as job roles, salaries, qualifications, and attendance.
+
 
 ## Objectives
 - Design a structured relational database
