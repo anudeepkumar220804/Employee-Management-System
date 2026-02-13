@@ -63,5 +63,5 @@ This project answers key business questions such as:
 ---
 
 ## 👤 Author
-**kndreddi prasad**  
-Email: [kandreddiprasad@gmail.com](mailto:kandreddiprasad@gmail.com)
+**J Anudeep Kumar**  
+Email: [Anudeepyadav2@gmail.com](mailto:Anudeepyadav2@gmail.com)
